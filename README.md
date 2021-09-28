@@ -14,7 +14,7 @@ Results woulbe as below on Kitty data set sequence 7
 ![image](https://user-images.githubusercontent.com/59999074/135086694-3d62685d-5c35-4e10-a886-02d52da55cc1.png)
 
 
+![image](https://user-images.githubusercontent.com/59999074/135087482-326ff43f-4471-4e3c-bf4e-043700f4116c.png)
 
-![image](https://user-images.githubusercontent.com/59999074/135086968-5d72a4f9-b689-4250-91d4-e939f3be82d2.png)
 
 
